@@ -1,6 +1,5 @@
 # Hack2skill
 
-Introduction:
 "Hack2Skill" is an intensive and dynamic hackathon aimed at fostering innovation and creativity in the tech community. Participants collaborate in teams to solve real-world challenges, showcasing their coding skills and problem-solving abilities. The event encourages networking and learning, making it an ideal platform for aspiring developers and tech enthusiasts to grow and shine.
 
 Deployed Report:
